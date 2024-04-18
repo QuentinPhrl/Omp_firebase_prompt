@@ -1,4 +1,11 @@
 # Omp_firebase_prompt
+
+
+> ⚠️ It no longer makes sense to use this script since an segment has been created by [@ivan-the-terrible](https://www.github.com/ivan-the-terrible) on the official repo.⚠️
+> 
+> [Firebase segment](https://ohmyposh.dev/docs/segments/firebase)
+
+
 Show current firebase project on custom oh-my-posh theme
 
 This repository provides a zsh script and a custom oh-my-posh theme that displays the current firebase project as in the following example: 
